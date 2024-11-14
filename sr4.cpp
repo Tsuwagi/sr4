@@ -32,5 +32,6 @@ int main() {
             break;
     
     }
+    cout << " result = " << result << endl;
 return 0;
 }
